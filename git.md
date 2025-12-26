@@ -41,3 +41,21 @@
 ```bash
  git reset --hard <commit-id>
 ```
+
+- 查看分支
+
+```bash
+ git branch
+```
+
+- 切换分支
+
+```bash
+ git checkout <branch-name>
+```
+
+- 合并分支
+
+```bash
+ git merge <branch-name>
+```
